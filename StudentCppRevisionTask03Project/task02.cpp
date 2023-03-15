@@ -52,5 +52,5 @@
 */
 
 string task02(int a, int b, int n) {
-	return "?";
+	return "error";
 }
