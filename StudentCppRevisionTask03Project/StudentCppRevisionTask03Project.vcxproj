@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="task01.cpp" />
+    <ClCompile Include="task02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h" />
